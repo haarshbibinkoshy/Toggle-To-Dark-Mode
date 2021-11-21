@@ -5,5 +5,5 @@ const labelDiv=document.getElementById('label-div');
 toggle.addEventListener('click',()=>{
     document.body.classList.toggle('dark');
     toggleBtn.classList.toggle('active')
-    labelDiv.classList.toggle('acitve')
+    labelDiv.classList.toggle('active')
 })
